@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
- 
+# 对一个整体的视频进行分割取图片
 import cv2
 import os
 import pdb
